@@ -1,5 +1,6 @@
 # Python
-*.pyc pycache/
+*.pyc pycache/ 
+src/__pycache__
 
 # Audio files
 audio/.wav audio/.mp3 audio/*.m4a
