@@ -1,0 +1,15 @@
+# Python
+*.pyc pycache/
+
+# Audio files
+audio/.wav audio/.mp3 audio/*.m4a
+audio_outputs/
+
+# Model files
+models/
+
+# Output files
+output_files/
+
+# Streamlit session files
+*.log
